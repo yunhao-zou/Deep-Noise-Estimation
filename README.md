@@ -1,4 +1,4 @@
-# Deep-Noise-Estimate
+# Deep-Noise-Estimation
  This is the code for [Estimating fine-grained noise model via contrastive learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Estimating_Fine-Grained_Noise_Model_via_Contrastive_Learning_CVPR_2022_paper.pdf), CVPR 2022, Yunhao Zou, Ying Fu
 
 # Introduction
@@ -41,9 +41,8 @@ If you find this work useful for your research, please cite:
   year={2022}
 }
 ```
-## contact
+## Contact
 If you have any problems, please feel free to contact me at zouyunhao@bit.edu.cn
-##
 ## Acknowlegment
-The code borrows from [**ELD**](https://github.com/Vandermode/ELD), [**SimCLR**](https://github.com/sthalles/SimCLR), and [**CA-NoiseGAN**](https://github.com/arcchang1236/CA-NoiseGAN), please also cite their great work
+The code borrows from [**ELD**](https://github.com/Vandermode/ELD), [**SimCLR**](https://github.com/sthalles/SimCLR), [**CA-NoiseGAN**](https://github.com/arcchang1236/CA-NoiseGAN), and [**Unprocessing**](https://github.com/timothybrooks/unprocessing), please also cite their great work
 
