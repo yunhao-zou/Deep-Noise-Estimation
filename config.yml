@@ -1,0 +1,8 @@
+# General
+# Data downloaded from https://github.com/arcchang1236/CA-NoiseGAN
+data_dir: /data/noise_modeling/Data
+noise_model:
+  sample_dir_png: sample_result/png/
+  patch_size: [128, 128]
+  sample_amount: 10
+  
